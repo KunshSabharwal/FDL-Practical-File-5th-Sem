@@ -1,0 +1,9 @@
+# Fundamentals of Deep Learning Lab Practical File Codes - 5th Semester - Kunsh Sabharwal
+
+## Lab 1 - 11/8/25
+
+- Basics of Python Packages like Tensorflow and Keras
+
+## Lab 2 - 18/08/25
+
+-
