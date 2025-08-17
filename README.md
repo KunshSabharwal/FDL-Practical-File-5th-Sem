@@ -6,4 +6,4 @@
 
 ## Lab 2 - 18/08/25
 
--
+- ANN Models for regression and classification
