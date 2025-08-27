@@ -7,3 +7,7 @@
 ## Lab 2 - 18/08/25
 
 - ANN Models for regression and classification
+
+## Lab 3 - 25/08/25
+
+- CNN Model for Brain Tumour Detection on MRI Dataset
