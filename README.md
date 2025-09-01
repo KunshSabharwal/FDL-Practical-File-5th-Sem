@@ -11,3 +11,11 @@
 ## Lab 3 - 25/08/25
 
 - CNN Model for Brain Tumour Detection on MRI Dataset
+
+## Lab 4 - 1/09/25
+
+- AutoEncoders on Pistachio Dataset
+
+## Lab 5 - 1/09/25
+
+- Application of AutoEncoders on Image Dataset (MNIST Dataset)
