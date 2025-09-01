@@ -15,7 +15,4 @@
 ## Lab 4 - 1/09/25
 
 - AutoEncoders on Pistachio Dataset
-
-## Lab 5 - 1/09/25
-
 - Application of AutoEncoders on Image Dataset (MNIST Dataset)
