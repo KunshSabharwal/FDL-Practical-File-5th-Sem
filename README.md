@@ -16,3 +16,7 @@
 
 - AutoEncoders on Pistachio Dataset
 - Application of AutoEncoders on Image Dataset (MNIST Dataset)
+
+## Lab 5 - 8/09/25
+
+- Enhance performance of Autoencoders using Convolutional Layers (CNN)
