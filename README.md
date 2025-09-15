@@ -20,3 +20,7 @@
 ## Lab 5 - 8/09/25
 
 - Enhance performance of Autoencoders using Convolutional Layers (CNN)
+
+## Lab 6 - 15/09/25
+
+- Stock Price Prediction using RNN Model
