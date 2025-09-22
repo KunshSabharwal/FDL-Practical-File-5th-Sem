@@ -25,6 +25,6 @@
 
 - Stock Price Prediction using RNN Model
 
-## Lab 7 - 15/09/25
+## Lab 7 - 22/09/25
 
 - Future Weather Prediction for 3 cities using LSTM's
