@@ -33,6 +33,6 @@
 
 - MobileNetV2 on image classification for MNIST Dataset
 
-## Lab 9 - 13/10/25
+## Lab 8 - 13/10/25
 
 - VGG16 for image dataset in python
