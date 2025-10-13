@@ -28,3 +28,11 @@
 ## Lab 7 - 22/09/25
 
 - Future Weather Prediction for 3 cities using LSTM's
+
+## Lab 8 - 13/10/25
+
+- MobileNetV2 on image classification for MNIST Dataset
+
+## Lab 9 - 13/10/25
+
+- VGG16 for image dataset in python
