@@ -33,3 +33,8 @@
 
 - MobileNetV2 on image classification for MNIST Dataset
 - VGG16 for image dataset in python
+
+## Lab 9 - 3/11/25
+
+- NLP for restaurant reviews and NLP for spam/ham email dataset
+- Internal Practical and Viva
